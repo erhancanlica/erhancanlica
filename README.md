@@ -1,11 +1,14 @@
-Hi 👋 Welcome to my Github Profile
+Hi 👋 My name is Erhan
 ======================
 
 Backend Developer
 -----------------
 
 * 🌍  I'm based in İstanbul
-* ✉️  You can contact me at [erhancnlc@outlook.com](mailto:erhancnlc@outlook.com)
+* ✉️  You can contact me at [erhan.canlica@outlook.com](mailto:erhan.canlica@outlook.com)
+* 🚀  I'm currently working on [Metasis Company](http://www.metasis.com.tr/)
+* 🧠  I'm learning Go Programming
+* 🤝  I'm open to collaborating on Blockchain Projects
 
 <a href="https://www.github.com/erhancanlica" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/erhancanlica?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
