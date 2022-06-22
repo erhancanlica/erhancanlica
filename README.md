@@ -6,7 +6,7 @@ Backend Developer
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [erhan.canlica@outlook.com](mailto:erhan.canlica@outlook.com)
-* 🚀  I'm currently working on [Metasis Company](http://www.metasis.com.tr/)
+* 🚀  I'm currently working on [Bilyoner Company](http://www.bilyoner.com.tr/)
 * 🧠  I'm learning Go Programming
 * 🤝  I'm open to collaborating on Blockchain Projects
 
